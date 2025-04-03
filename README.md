@@ -5,9 +5,11 @@ _This is a React Native project created using Expo for Meta's React Native cours
 This project's goal is to learn React Native's fundamentals by making an app for a fictional restaurant named 🍋**Little Lemon**
 
 # App Project:
-![alt text](/screenshots/IMG_3577.jpg)
-![alt text](/screenshots/IMG_3578.jpg)
-![alt text](/screenshots/IMG_3579.jpg)
+<div style={display: 'flex', align: 'center'}>
+   <img src="/screenshots/IMG_3577.jpg" width="240">
+   <img src="/screenshots/IMG_3578.jpg" width="240">
+   <img src="/screenshots/IMG_3579.jpg" width="240">
+</div>
 
 # 📚 Course Structure:
 
