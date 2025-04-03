@@ -50,7 +50,7 @@ export default function LoginPage() {
                         <Pressable
                             onPress={() => setLogin(!login)}
                         >
-                            <Text  style={loginStyle.loginButton}>Return</Text>
+                            <Text  style={loginStyle.loginButton}>Go to main page</Text>
                         </Pressable>
                     </View>
                 </View>
